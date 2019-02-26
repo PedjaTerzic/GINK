@@ -1,0 +1,6 @@
+Conjecture
+
+Let P_m(x)=2^{-m}\cdot((x-\sqrt{x^2-4})^m+(x+\sqrt{x^2-4})^m) . 
+Let F_n(b)= b^{2^n}+1  where b is an even integer ,  3\nmid b , 5\nmid b   and n\ge 2 . 
+Let S_i=P_b(S_{i-1}) with S_0=P_{b/2}(P_{b/2}(8)) , then 
+F_n(b) is prime iff S_{2^n-2} \equiv 0 \pmod{F_n(b)} .
